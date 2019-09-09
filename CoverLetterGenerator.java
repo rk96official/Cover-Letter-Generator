@@ -394,7 +394,7 @@ public class PatientRespCoverLetter {
 									     //Merging the two documents 
 							    		  PDF2.mergeDocuments(null);
 							    		//Merging the two documents 
-									     PDF.mergeDocuments(null);
+									   PDF.mergeDocuments(null);
 			
 
 
